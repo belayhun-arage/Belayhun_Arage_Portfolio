@@ -38,7 +38,7 @@ const Services = () => {
                     <div className="service__head">
                     <h3>Back To School Ethiopia</h3>
                         <h3>Back-End Developer </h3>
-                        <h3>oCT 2021 - Dec 2021 </h3>
+                        <h3>Oct 2021 - Dec 2021 </h3>
                     </div>
 
                     <ul className='service__list'>
@@ -103,6 +103,26 @@ const Services = () => {
                     <ul className='service__list'>
                         <li><BiCheck className='service__list-icon'/></li>
                         <p>Assisting students on the road map for VueJS</p>
+                    </ul>
+                </article>
+                <article className="service">
+                    <div className="service__head">
+                    <h3>Contract and Private</h3>
+                        <h3>Built a web gis based site </h3>
+                        <h3>Sep 2021 -  Dec 2021 </h3>
+                    </div>
+                    
+                    <ul className='service__list'>
+                        <li><BiCheck className='service__list-icon'/></li>
+                        <p>Implemented web gis, geo server, geo location and geo distance.</p>
+                    </ul>
+                    <ul className='service__list'>
+                        <li><BiCheck className='service__list-icon'/></li>
+                        <p>It can help tourists to find historical places and their shortest route with estimated time</p>
+                    </ul>
+                    <ul className='service__list'>
+                        <li><BiCheck className='service__list-icon'/></li>
+                        <p>It is location based and in Addis Ababa Ethiopia</p>
                     </ul>
                 </article>
                 {/* END OF Web Development */}
