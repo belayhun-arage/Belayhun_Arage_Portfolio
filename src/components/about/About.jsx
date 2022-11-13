@@ -41,11 +41,11 @@ const About = () => {
                     </div> */}
 
                     <p>
-                        Hello :) Im Belayhun Arage, a front-end developer from Addis Ababa, Ethiopis.  <br/> 
+                        Hello :) Im Belayhun Arage, a Full-Stack developer from Addis Ababa, Ethiopia.  <br/> 
                         <br/>
                         Well-qualified Full Stack Developer familiar with wide range of programming
-                    utilities and languages. Knowledgeable of backend and frontend development
-                    requirements. Handles any part of process with ease. Collaborative team player
+                     languages and frameworks. Knowledgeable of backend and frontend development
+                    requirements.I can handle any part of process with ease. Collaborative team player
                     with excellent technical abilities and offering diverse customer projects.
                     </p>
 
